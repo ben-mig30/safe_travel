@@ -1,0 +1,20 @@
+/* estilos-personalizados.css */
+
+/* Importa la fuente 'Open Sans' de Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+/* Aplica la fuente 'Open Sans' a los botones de la barra de navegación */
+.navbar-nav .nav-item .btn {
+    font-family: 'Open Sans', sans-serif; /* Aplica la fuente */
+    font-weight: 600; /* Hace el texto un poco más audaz */
+    letter-spacing: 0.2px; /* Pequeño espaciado entre letras para mejor lectura */
+    text-transform: uppercase; /* Opcional: convierte el texto a mayúsculas */
+}
+.navbar-nav .nav-item .btn {
+    font-size: 0.9rem;
+}
+.colorfondo{
+    background-color: #424242;
+}
+.encpie{background-color: #008080;
+}
