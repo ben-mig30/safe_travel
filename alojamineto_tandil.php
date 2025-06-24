@@ -10,14 +10,11 @@
         <?php include("pag.php");?>
     </head>
     <body class="colorfondo">
-    <div class="row">
-    <div class="col-sm-12 p-3 colorfondo text-white"></div>
-    </div>
         <?php 
             echo encabezado();
         ?>
         <!--  fin encabezado  -->
-            <div class="container colorfondo text-white">
+        <div class="container colorfondo text-white">
         <div class="row">
             <h2>Mejores alojamientos de Tandil</h2>
             <div class="col-sm-3 p-3 colorfondo text-white">

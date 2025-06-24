@@ -10,9 +10,6 @@
         <?php include("pag.php");?>
     </head>
     <body class="colorfondo">
-    <div class="row">
-    <div class="col-sm-12 p-3 colorfondo text-white"></div>
-    </div>
         <?php 
             echo encabezado();
         ?>
